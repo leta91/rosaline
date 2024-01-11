@@ -1,0 +1,208 @@
+/*
+Theme Name: Rosaline 
+Author: Letizia DI MAIO
+Author URI: https://letiziadimaio.netlify.app/
+Description: A great WordPress Classic Theme for E-commerce Sites
+Version: 1.0
+Requires at least: 6.4.2
+Tested up to: 6.4.2
+Requires PHP: 8.1.23
+License: Commercial
+License URI: https://letiziadimaio.netlify.app/
+Text Domain: rosaline
+*/
+
+/* Custom style for index page */
+
+
+body {
+    overflow-x: hidden; /* to remove horizontal scrollbar */
+}
+
+.showcase {
+    height: 100vh;
+    width: 100vw;
+    background: url('img/3no-text-Rosaline-Homepage-Background-Img.png') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+
+}
+
+  .boxes {
+      text-align: center;
+      background: white;
+      margin-bottom: 30px;
+  }
+  
+  
+  .carousel-caption {
+      bottom: 220px;
+  }
+  
+  .carousel-caption h5 {
+      font-size: 45px;
+      letter-spacing: 2px;
+      margin-top: 25px;
+  }
+  
+  h1, h2, h3, h4, h5, p {
+      color: #422325; 
+  }
+  
+  h1, h2, h3, h4, h5, tbody, tr {
+      font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  }
+  
+  * {
+      color: #422325;
+      
+  }
+  
+  .nav-link, .nav-item {
+      color: #422325 !important;  
+  }
+
+
+  .results-displayer {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  }
+
+/*css to remove image load option in mobile */
+
+img {
+	pointer-events: none;
+}
+
+footer {
+    padding-bottom: 5rem;
+}
+
+#homepage-button button {
+    background:    #ff72b9;
+    border-radius: 11px;
+    box-shadow:    0 1px #422325;
+    padding:       10px 35px;
+    color:         #ffffff;
+    display:       inline-block;
+    font:          normal bold 26px/1 "Playfair Display", Georgia, "Times New Roman", serif;
+    text-align:    center;
+}
+
+/* center the homepage button through its parent <div> */
+#homepage-button {
+    text-align: center;  
+}
+
+/* customize WooCommerce based on the color palette for the Rosaline Theme */ 
+
+
+/* customize the buttons in the checkout and cart page */ 
+
+.wc-block-components-button, .wp-block-button__link, .single_add_to_cart_button, .add_to_cart_button, .product_type_variable, .product_type_simple, .description_tab, .additional_information_tab, .reviews_tab, .submit {
+    color: #422325;
+    background-color: #FBECED;
+    font-weight: bold;
+}
+
+/* change shape of the button on the cart page "Add to cart" */ 
+
+.wp-block-button__link, .add_to_cart_button {
+    border-radius: 5% 10% 3% 2%;
+}
+
+/* remove the <ul> symbol on the Shop page*/
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* hide the string "Showing all 9 products" and the dropdown menu that filters through the products  */
+select, .woocommerce-result-count, .onsale, .woocommerce-price-suffix, .in-stock, .sku_wrapper {
+    display: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.product li {
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.product {
+    margin: 15px auto 15px auto;
+
+}
+
+@media screen and (min-width: 1025px) {
+    .entry-content, .entry-summary {
+        float: left;
+        width: 100%;
+    }
+    }
+    
+    
+.description_tab, .additional_information_tab, .reviews_tab {
+    padding: 1rem;
+    margin: 1rem;
+    border: 0.09rem solid #422325;
+}
+
+.submit  {
+margin-left: 6rem;
+}
+
+.wc-forward {
+    color: #ff72b9;
+    background-color: #FBECED;
+    font-weight: bold;
+    margin: 1rem;
+}
+
+.woocommerce-product-gallery__image, h1.product_title, div.woocommerce-product-details__short-description, .quantity, div.product_meta, .woocommerce-Tabs-panel--description, .related > h2, div.woocommerce-product-gallery--with-images , .woocommerce-variation-add-to-cart , div.woocommerce-Tabs-panel--additional_information , h2.woocommerce-Reviews-title , p.woocommerce-noreviews , div.comment-respond {
+    text-align: center;
+}
+
+a.woocommerce-product-gallery__trigger, table.variations , ul.tabs > li , table.woocommerce-product-attributes {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.woocommerce-Tabs-panel--additional_information {
+    padding: 2rem;
+}
+
+p.comment-form-comment , div.woocommerce-Tabs-panel--additional_information ,div.woocommerce-Tabs-panel--description , .submit , .single_add_to_cart_button  {
+    margin: 2rem;
+}
+
+a.reset_variations{
+    margin: 0.5rem;
+}
+
+p.price {
+    text-align: center;
+}
+
+form.cart {
+    text-align: center;
+}
+
+a.navbar-breadcrumb {
+    color: #422325;
+
+}
+
+
+/*CSS ends */
