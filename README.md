@@ -55,12 +55,12 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 
 Create a new repository on the command line and link the remote repository (kept on GitHub) to the local repository
 `
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:username/repositoryname.git
-git push -u origin main
+git init</br>
+git add README.md</br>
+git commit -m "first commit"</br>
+git branch -M main</br>
+git remote add origin git@github.com:username/repositoryname.git</br>
+git push -u origin main</br>
 `
 
 
