@@ -1,4 +1,4 @@
-# :blonde_woman: Rosaline 
+# 🌹 Rosaline 
 
 ## :dress: Women's E-commerce Clothing Store 
 
