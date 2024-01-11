@@ -53,7 +53,14 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 
 17. :white_check_mark: add a *boostrap 5 navwalker* (it will allow to display a *header navigation menu*)
 
-
-
+Create a new repository on the command line and link the remote repository (kept on GitHub) to the local repository
+`
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:username/repositoryname.git
+git push -u origin main
+`
 
 
