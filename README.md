@@ -4,7 +4,7 @@
 
 | WordPress version | Web Server version | PHP version | Database version |
 | ---               | ---                | ---         | ---              |
-| 6.4.2             | nginx              | 8.1.23      | MySQL 8.0.16     |
+| 6.4.2             | nginx  1.16.0      | 8.1.23      | MySQL 8.0.16     |
 
 The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 
