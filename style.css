@@ -5,7 +5,7 @@ Author URI: https://letiziadimaio.netlify.app/
 Description: A great WordPress Classic Theme for E-commerce Sites
 Version: 1.0
 Requires at least: 6.4.2
-Tested up to: 6.4.2
+Tested up to: 6.4.0
 Requires PHP: 8.1.23
 License: Commercial
 License URI: https://letiziadimaio.netlify.app/
@@ -51,6 +51,7 @@ body {
   h1, h2, h3, h4, h5, p {
       color: #422325; 
   }
+
   
   h1, h2, h3, h4, h5, tbody, tr {
       font-family: "Playfair Display", Georgia, "Times New Roman", serif;
@@ -72,7 +73,6 @@ body {
    align-items: center;
   }
 
-/*css to remove image load option in mobile */
 
 img {
 	pointer-events: none;
@@ -126,7 +126,7 @@ ul {
 }
 
 /* hide the string "Showing all 9 products" and the dropdown menu that filters through the products  */
-select, .woocommerce-result-count, .onsale, .woocommerce-price-suffix, .in-stock, .sku_wrapper {
+select, .woocommerce-result-count, .onsale, .woocommerce-price-suffix, .in-stock, .sku_wrapper , nav.woocommerce-breadcrumb , header.woocommerce-products-header {
     display: none;
 }
 
@@ -197,11 +197,6 @@ p.price {
 
 form.cart {
     text-align: center;
-}
-
-a.navbar-breadcrumb {
-    color: #422325;
-
 }
 
 
