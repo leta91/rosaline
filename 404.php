@@ -1,10 +1,12 @@
 <?php get_header(); ?>
 
+<body>
+
 <!--navbar-->
 <nav class="navbar navbar-expand-lg" style="background-color: #FBECED;">
     <div class="container">
       <a class="navbar-brand" href="<?php echo bloginfo('url'); ?>">
-        <img class="logo" alt="Rosaline Logo" src="<?php echo get_template_directory_uri(); ?>/img/v2-200x100px-Rosaline-Pink-Logo.png">
+      <img class="logo" alt="Rosaline Logo" src="<?php echo get_template_directory_uri(); ?>/img/v2-200x100px-Rosaline-Pink-Logo.png">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
