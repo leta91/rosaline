@@ -17,6 +17,10 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 - PHP
 - Boostrap (in its latest version: 5.3.2 as of January 2024)
 
+### Inspiration
+
+I was inspired to name this project of mine after the Shakespearean character of ***"Rosaline"*** mentioned in the play ***"Romeo and Juliet"*** and by this particular movie scene https://www.youtube.com/watch?v=uKIjMK9uIXI 
+
 ### "Rosaline" Theme Development Step-By-Step:
 
 1. :white_check_mark: Within your local WordPress installation, go to `app > public > wp-content > themes` and add a new empty folder named `rosaline` :open_file_folder:
