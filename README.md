@@ -21,7 +21,21 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 
 I was inspired to name this project of mine after the Shakespearean character of ***"Rosaline"*** mentioned in the play ***"Romeo and Juliet"*** and by this particular movie scene https://www.youtube.com/watch?v=uKIjMK9uIXI 
 
-### 📚 "Rosaline" Theme Development Step-By-Step:
+## 🚀 See the Project Live
+
+### 📱 "Rosaline" on phone screen size 430x932px (click below 🖱️)
+
+https://github.com/leta91/rosaline/assets/109817389/30716f89-94ed-4f8f-a1b2-2b056b4cb81d
+
+### 💻 "Rosaline" on tablet and laptop screen size 1280x800px (click below 🖱️)
+
+🌹 Part 1 <br/>
+https://github.com/leta91/rosaline/assets/109817389/d9dfa46e-12c1-4edb-b1c0-9640d9541367
+
+🌹 Part 2 <br/>
+https://github.com/leta91/rosaline/assets/109817389/51534ff3-749d-49bd-8950-ce05a8013287
+
+## 📚 "Rosaline" Theme Development Step-By-Step:
 
 1. :white_check_mark: Within your local WordPress installation, go to `app > public > wp-content > themes` and add a new empty folder named `rosaline` :open_file_folder:
 
