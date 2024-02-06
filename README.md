@@ -19,7 +19,7 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 
 ### ⚡ Inspiration
 
-I was inspired to name this project of mine after the Shakespearean character of ***"Rosaline"*** mentioned in the play ***"Romeo and Juliet"*** and by this particular movie scene https://www.youtube.com/watch?v=uKIjMK9uIXI 
+I was inspired to name this project of mine after the Shakespearean character of ***"Rosaline"*** mentioned in the play ***"Romeo and Juliet"*** and by this particular movie scene https://www.youtube.com/watch?v=KLQKDa2Fn5s
 
 ### 📚 "Rosaline" Theme Development Step-By-Step:
 
