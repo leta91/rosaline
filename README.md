@@ -15,27 +15,13 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 - CSS
 - JavaScript
 - PHP
-- Boostrap (in its latest version: 5.3.2 as of January 2024)
+- Bootstrap (in its latest version: 5.3.2 as of February 2024)
 
 ### ⚡ Inspiration
 
 I was inspired to name this project of mine after the Shakespearean character of ***"Rosaline"*** mentioned in the play ***"Romeo and Juliet"*** and by this particular movie scene https://www.youtube.com/watch?v=uKIjMK9uIXI 
 
-## 🚀 See the Project Live
-
-### 📱 "Rosaline" on phone screen size 430x932px (click below 🖱️)
-
-https://github.com/leta91/rosaline/assets/109817389/30716f89-94ed-4f8f-a1b2-2b056b4cb81d
-
-### 💻 "Rosaline" on tablet and laptop screen size 1280x800px (click below 🖱️)
-
-🌹 Part 1 <br/>
-https://github.com/leta91/rosaline/assets/109817389/d9dfa46e-12c1-4edb-b1c0-9640d9541367
-
-🌹 Part 2 <br/>
-https://github.com/leta91/rosaline/assets/109817389/51534ff3-749d-49bd-8950-ce05a8013287
-
-## 📚 "Rosaline" Theme Development Step-By-Step:
+### 📚 "Rosaline" Theme Development Step-By-Step:
 
 1. :white_check_mark: Within your local WordPress installation, go to `app > public > wp-content > themes` and add a new empty folder named `rosaline` :open_file_folder:
 
@@ -47,9 +33,9 @@ https://github.com/leta91/rosaline/assets/109817389/51534ff3-749d-49bd-8950-ce05
 
 5. :white_check_mark: install *WooCommerce* Plugin (this plugin will create the e-commerce) :shopping: :shopping_cart:
 
-6. :white_check_mark: add a `css` folder :open_file_folder: and put there `boostrap.min.css`, within `rosaline` theme folder
+6. :white_check_mark: add a `css` folder :open_file_folder: and put there `bootstrap.min.css`, within `rosaline` theme folder
 
-7. :white_check_mark: add a `js` folder :open_file_folder: and put there `boostrap.bundle.min.js`, within `rosaline` theme folder ***(similar process to step 6)***
+7. :white_check_mark: add a `js` folder :open_file_folder: and put there `bootstrap.bundle.min.js`, within `rosaline` theme folder ***(similar process to step 6)***
 
 8. :white_check_mark: create `header.php` within `rosaline` theme folder
 
@@ -69,7 +55,7 @@ https://github.com/leta91/rosaline/assets/109817389/51534ff3-749d-49bd-8950-ce05
 
 16. :white_check_mark: add `404.svg` (this image will only be rendered on the `404.php` page) :framed_picture:
 
-17. :white_check_mark: add a *boostrap 5 navwalker* (it will allow to display a *header navigation menu*)
+17. :white_check_mark: add a *bootstrap 5 navwalker* (it will allow to display a *header navigation menu*)
 
 Create a new repository on the command line and link the remote repository (kept on GitHub) to the local repository</br>
 
@@ -80,5 +66,3 @@ Create a new repository on the command line and link the remote repository (kept
 `git remote add origin git@github.com:username/repositoryname.git`</br>
 `git push -u origin main`</br>
 `
-
-
