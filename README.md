@@ -21,6 +21,10 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 
 I was inspired to name this project of mine after the Shakespearean character of ***"Rosaline"*** mentioned in the play ***"Romeo and Juliet"*** and by this particular movie scene https://www.youtube.com/watch?v=KLQKDa2Fn5s
 
+### 🔗 View Live
+⚗️ **https://rosaline.letiziadimaio.com/**
+<p>&nbsp;</p>
+
 ### 📚 "Rosaline" Theme Development Step-By-Step:
 
 1. :white_check_mark: Within your local WordPress installation, go to `app > public > wp-content > themes` and add a new empty folder named `rosaline` :open_file_folder:
