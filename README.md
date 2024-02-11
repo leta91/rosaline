@@ -15,6 +15,7 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 - WooCommerce
 - PHP
 - Bootstrap (in its latest version: 5.3.2 as of February 2024)
+- Adobe Express
 - JavaScript
 - HTML
 - CSS
