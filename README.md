@@ -23,8 +23,9 @@ The ***"Rosaline"*** project uses a ***Classic Theme*** for WordPress
 ## ⚡ Inspiration
 
 I was inspired to name this project of mine after the Shakespearean character of ***"Rosaline"*** mentioned in the play ***"Romeo and Juliet"*** and by this particular movie scene https://www.youtube.com/watch?v=KLQKDa2Fn5s
+<p>&nbsp;</p>
 
-## Mockups on Desktop (1920 x 917 px) 💻![rosaline1-desktop]
+## Mockups on Desktop (1920 x 917 px) 💻
 ![rosaline1-desktop](https://github.com/leta91/rosaline/assets/109817389/751b0bc9-9333-437c-a2cd-a3a4f27d193c)
 ![rosaline2-desktop](https://github.com/leta91/rosaline/assets/109817389/cf79991d-634d-4253-88ee-50509ea3ac74)
 ![rosaline3-desktop](https://github.com/leta91/rosaline/assets/109817389/f80aa552-8972-4f8f-ace3-31676e72dc8b)
