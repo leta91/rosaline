@@ -47,5 +47,7 @@ I was inspired to name this project of mine after the Shakespearean character of
 ![rosaline8-mobile](https://github.com/leta91/rosaline/assets/109817389/bf207c9e-c50b-431e-b72e-0f99597415c2)
 ![rosaline9-mobile](https://github.com/leta91/rosaline/assets/109817389/815cd4d8-17d5-4b75-b747-b065fc9933e8)
 ![rosaline10-mobile](https://github.com/leta91/rosaline/assets/109817389/63fc6dec-d05b-4185-84c8-c8e2664cc84e)
-
+![rosaline11-mobile](https://github.com/leta91/rosaline/assets/109817389/b8c76fbe-b583-4dcd-b5b4-f957fd2209f6)
+![rosaline12-mobile](https://github.com/leta91/rosaline/assets/109817389/28348db8-aa10-455a-aafe-c810e199a7d0)
+![rosaline13-mobile](https://github.com/leta91/rosaline/assets/109817389/f58d4795-fb98-48d7-b367-5b5cdc9f1adb)
 
