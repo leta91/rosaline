@@ -33,6 +33,7 @@ I was inspired to name this project of mine after the Shakespearean character of
 ![rosaline6-desktop](https://github.com/leta91/rosaline/assets/109817389/da1a6477-9ba4-48e3-9776-d26b44147bcc)
 ![rosaline7-desktop](https://github.com/leta91/rosaline/assets/109817389/44e91cae-ab61-4e0d-8703-fd775e2563cb)
 ![rosaline8-desktop](https://github.com/leta91/rosaline/assets/109817389/6be76c98-530a-424e-824a-61f187e14ec9)
+<p>&nbsp;</p>
 
 ## Mockups on Mobile (412 x 915 px) 📱
 ![rosaline1-mobile](https://github.com/leta91/rosaline/assets/109817389/b22f0852-be42-4ac3-a699-c35e7b52aedd)
